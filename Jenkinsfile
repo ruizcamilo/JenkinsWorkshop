@@ -1,6 +1,7 @@
 //PIPELINE FROM SCM
 pipeline{
     agent any
+    
     stages {
         stage ("Preparation")
         {
